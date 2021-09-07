@@ -1,7 +1,7 @@
 # IoTハンズオン：Azure IoT + AI 実践編
 
 ## 概要
-ある現場の動画から切り出した画像を使って作業者の滞在状況をトラッキングして可視化する一連を体験いただきます。
+ある現場の動画から切り出した画像を使って作業者の滞在状況をトラッキングして可視化する一連を体験いただきます
 
 ## 事前準備
 - Azure サブスクリプションの準備
@@ -17,7 +17,7 @@
 - [サンプルコードおよびサンプルデータ](https://github.com/yahanda/hands-on-iot-customvision)のダウンロード
 
 ## 資料
-こちらの[PDF資料](https://github.com/yahanda/hands-on-iot-customvision/raw/main/Hands-On-IoT-AI_CustomVision.pdf)で、Azure各サービスの概説およびハンズオン手順をまとめています
+こちらの[PDF資料](https://github.com/yahanda/hands-on-iot-customvision/raw/main/Hands-On-IoT-AI_CustomVision.pdf)に、Azure各サービスの概説およびハンズオン手順をまとめています
 
 ## 所要目安
 約3時間
